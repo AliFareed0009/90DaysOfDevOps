@@ -1,0 +1,3 @@
+history command is use to see the history of commands used
+| is used to redirect output
+tail -10 is used to take last 10 lines
