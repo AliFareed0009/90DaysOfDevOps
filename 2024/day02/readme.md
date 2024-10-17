@@ -1,7 +1,7 @@
 ## Basic linux commands
 
 ### Listing commands
-```ls option_flag arguments ```--> list the sub directories and files avaiable in the present directory
+```ls option_flag arguments ```--> list the sub directories and files available in the present directory
 
 Examples:
 
@@ -12,7 +12,7 @@ Examples:
 - ```ls -i ``` --> list the files and directories with index numbers inodes
 - ``` ls -d */``` --> list only directories.(we can also specify a pattern)
 
-### Directoy commands
+### Directory commands
 - ```pwd``` --> print work directory. Gives the present working directory.
 
 - ```cd path_to_directory``` --> change directory to the provided path
@@ -35,7 +35,7 @@ mkdir .NewFolder              # make a hidden directory (also . before a file to
 
 mkdir A B C D                  #make multiple directories at the same time
 
-mkdir /home/user/Mydirectory   # make a new folder in a specific location
+mkdir /home/user/newFolder   # make a new folder in a specific location
 
 mkdir -p  A/B/C/D              # make a nested directory
 ```
